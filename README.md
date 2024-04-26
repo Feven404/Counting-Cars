@@ -53,8 +53,20 @@ Columns that we used to analyze the data:
 <img src = "images/remove of time of day column and conversion of date column.png" width = "450")>
 </div>
 
-7. We combined all 8 groups and rearranged the table. Then we converted the column "Type of Vehicle" column to lowercase
+7. We combined all 8 groups and rearranged the table.
+<div>
+<img src = "images/combined data.png" width = "450")>
+</div>
 
+9. Then we converted the column "Type of Vehicle" column to lowercase
+<div>
+<img src = "images/type of vehicle column.png" width = "450")>
+</div>
+
+10. We then replaced some of the values in "Type of Vehicle" column:
+<div>
+<img src = "images/replacing values in type of vehicle column.png" width = "450")>
+</div>
 ---
 ## Shiny App 💻
 1. We created a dropdown menu where you can select the vehicle type, summary statistics (includes min, max, mean, and average speed), and average speed (whether under each plot based on the summary statistics chosen, one would want to see the average speed).
@@ -63,8 +75,8 @@ Columns that we used to analyze the data:
 <img src = "images/remove of time of day column and conversion of date column.png" width = "450" width = "450")>
 </div>
 
-
 Here is the link to the ShinyApp: [https://kobemagee20.shinyapps.io/all_car_data/]
+
 ---
 ## Data Analysis## Data Analysis 📊
 Using ShinyApp, we created 3 different graphs to visualize the minimumn, maximum, mean, and average speed of all the types of vehicles: box and whisker plot, scatter plot, an dlinear regression. Below are some images that show these visualisations.
@@ -86,15 +98,4 @@ Using ShinyApp, we created 3 different graphs to visualize the minimumn, maximum
    - This shows a linear regression plot of all the vehicles types:
 <div>
    <img src = "images/linear regression graph.png" width = "450"> 
-</div>
-
-## Research 🔍
-
-## Conclusion 🫧
-
-
-
-
-
-
-   
+</div>   
