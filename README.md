@@ -79,7 +79,7 @@ Columns that we used to analyze the data:
 Here is the link to the ShinyApp: [https://kobemagee20.shinyapps.io/all_car_data/]
 
 ---
-## Data Analysis## Data Analysis 📊
+## Data Analysis 📊
 Using ShinyApp, we created 3 different graphs to visualize the minimumn, maximum, mean, and average speed of all the types of vehicles: box and whisker plot, scatter plot, an dlinear regression. Below are some images that show these visualisations.
 
 1. Summary Statistics
