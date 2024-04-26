@@ -67,6 +67,7 @@ Columns that we used to analyze the data:
 <div>
 <img src = "images/replacing values in type of vehicle column.png" width = "450")>
 </div>
+
 ---
 ## Shiny App 💻
 1. We created a dropdown menu where you can select the vehicle type, summary statistics (includes min, max, mean, and average speed), and average speed (whether under each plot based on the summary statistics chosen, one would want to see the average speed).
