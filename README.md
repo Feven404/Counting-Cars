@@ -23,8 +23,9 @@ Columns that we used to analyze the data:
 ---
 ## Data Cleaning 
 1. Assigned names as "group 1", "group 2", etc to the excel and csv files loaded. Below is what it looks like:
+<div>
 <img src = "images/data to group naming and numbering.png" width = "450")>
-
+</div>
 2. We renamed columns so all the columns from the different data are similar. We also removed columns that     are unnecessary to the data analysis. Below is a snippet of the code we wrote as an example to show how we renamed and removed the columns:
 <div>
 <img src = "images/data analysis part 1 example.png" width = "450")>
@@ -47,9 +48,7 @@ Columns that we used to analyze the data:
 <div>
 <img src = "images/remove of time of day column and conversion of date column.png" width = "450")>
 </div>
-7. We combined all 8 groups and rearranged the table to look like this:
-
-8. We converted the column "Type of Vehicle" column to lowercase
+7. We combined all 8 groups and rearranged the table to look like this. Then we converted the column "Type of Vehicle" column to lowercase
 
 
 
